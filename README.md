@@ -27,3 +27,5 @@ Principal axes are :
 | 0.992289 -0.118671 0.035762 |  
 Applied filter Compute Geometric Measures in 135 msec  
 
+**Given:**  
+index_finger.xml and thumb.xml are the original xml files for index and thumb finger. Create new modified xml files with the necessary transformations.
