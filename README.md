@@ -2,7 +2,8 @@
 This repository contains codes required for the guided assignment for ME 639 Introduction to Robotics course at IIT Gandhinagar. The task was to enable a LEAP Hand to hold on to an object based on the 6D live pose of the object.
 
 **Required transformations:**  
-![Example Image](images/example.png "This is an example image")
+![Transformations](Transformations.jpg "These are the required transformations")
+![MeshLabss](MeshLabss.jpg "This is a screenshot from the MeshLab software showing palm_lower.stl")
 
 **'Compute Geometric Measure' result from mesh lab:**  
 Opened mesh /home/iitgn-robotics/Saniya/redundancy-leap/leap-mujoco/model/leap hand/palm_lower.stl in 105 msec  
