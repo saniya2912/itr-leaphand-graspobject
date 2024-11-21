@@ -28,4 +28,6 @@ Principal axes are :
 Applied filter Compute Geometric Measures in 135 msec  
 
 **Given:**  
-index_finger.xml and thumb.xml are the original xml files for index and thumb finger. Create new modified xml files with the necessary transformations.
+index_finger.xml and thumb.xml are the original xml files for index and thumb finger. Create new modified xml files with the necessary transformations.  
+test_receiver_4oct.py is the receiver code for tcp/ip communication. It receives a 4x4 transformation matrix of the .obj provided in foundationpose pipeline.
+test_invkin_11oct.py performs inverse kinematics for index and thumb individually and uses the dynamixel sdk to give commands to the leaphand. 
